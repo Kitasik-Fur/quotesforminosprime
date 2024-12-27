@@ -7,3 +7,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesfor
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesforminosprime/refs/heads/main/part1%20weak"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesforminosprime/refs/heads/main/part1%20die"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesforminosprime/refs/heads/main/part1%20ult"))()
