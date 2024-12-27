@@ -26,7 +26,7 @@ end
 
 
 
-onAnimation("12307656616", function(animation)
+onAnimation("12309835105", function(animation)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesforminosprime/refs/heads/main/part2%20tein"))()
     warn("animation id:", animation.Animation.AnimationId)
 end)
