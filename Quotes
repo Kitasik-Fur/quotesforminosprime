@@ -11,3 +11,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesfor
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesforminosprime/refs/heads/main/part1%20ult"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesforminosprime/refs/heads/main/part1%20useless"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitasik-Fur/quotesforminosprime/refs/heads/main/part1%20wallcombo"))()
