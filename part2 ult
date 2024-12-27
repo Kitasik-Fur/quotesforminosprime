@@ -1,0 +1,2 @@
+message = "Your end is here."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
